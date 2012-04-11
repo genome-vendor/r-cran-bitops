@@ -1,0 +1,20 @@
+Source: bitops
+Section: gnu-r
+Priority: optional
+Maintainer: cran2deb autobuild <cran2deb@gmail.com>
+Build-Depends: r-base-dev, xvfb, xauth, xfonts-base, r-base-core,
+ debhelper (>> 4.1.0), cdbs
+Standards-Version: 3.9.1
+
+Package: r-cran-bitops
+Architecture: any
+Depends: r-base-core, ${shlibs:Depends}
+Description: GNU R package "Functions for Bitwise operations"
+ .
+ Functions for Bitwise operations on integer vectors.
+ .
+ Author: S original by Steve Dutky <sdutky@terpalum.umd.edu> initial R
+ port and extensions by Martin Maechler. revised and modified by Steve
+ Dutky
+ .
+ Maintainer: Steve Dutky <sdutky@terpalum.umd.edu>

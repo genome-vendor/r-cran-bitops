@@ -1,0 +1,19 @@
+This Debian package of the GNU R package bitops was generated
+automatically using cran2deb by Steve Dutky <sdutky@terpalum.umd.edu>.
+
+The original GNU R package is Copyright (C) 2011 S original by Steve
+Dutky <sdutky@terpalum.umd.edu> initial R port and extensions by Martin
+Maechler. revised and modified by Steve Dutky and possibly others.
+
+The original GNU R package is maintained by Steve Dutky
+<sdutky@terpalum.umd.edu> and was obtained from:
+
+http://cran.r-project.org/src/contrib
+
+The GNU R package DESCRIPTION offers a Copyright licenses under the
+terms of the license: GPL version 2 or later .  On a Debian GNU/Linux
+system, common licenses are included in the directory
+/usr/share/common-licenses/.
+
+The DESCRIPTION file for the original GNU R package can be found in
+/usr/lib/R/site-library/r-cran-bitops/DESCRIPTION
